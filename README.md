@@ -91,7 +91,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-- **Ayan kundu**
-- **Website:** [https://www.example.com](https://www.example.com)
+- **Your Name** Ayan Kundu
 - **Email:** ayaan007ayk@gmail.com
 ```
